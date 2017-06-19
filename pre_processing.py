@@ -6,7 +6,7 @@ import re
 root_dir = r'data'
 training_file = 'train.txt'
 removes = ['', '']
-replaces = {'\/': ' '}
+replaces = {'\/': ' ', 'is n\'t': 'isnot'}
 
 def pre_process(root_d, input_f, output_f):
     y = {}
