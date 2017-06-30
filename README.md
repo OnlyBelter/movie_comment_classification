@@ -29,5 +29,5 @@ Python 3.5
 - 结果文件为`test_result.txt`
 - Normalized confusion matrix heatmap
 <div align="center">
-    <img src="https://github.com/OnlyBelter/learn_neuralTalk/blob/master/demo_images/002_ski.png?raw=true">
+    <img src="https://raw.githubusercontent.com/OnlyBelter/movie_comment_classification/master/normalized_confusion_matrix.png">
 </div>
